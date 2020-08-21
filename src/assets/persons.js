@@ -18,6 +18,22 @@ export const data = {
         country: "India",
       },
     },
+{
+    id: uuidv4(),
+    name: "Ermias Kidane",
+    img: "",
+    links: {
+      website: "http://ermiaskidane.com",
+      linkedin: "https://www.linkedin.com/in/ermias-kidane-19928016a/",
+      github: "https://github.com/ermiaskidane"
+    },
+    jobTitle: "Full Stack developer",
+    location: {
+      city: "Leicester",
+      state: "LeicesterShire",
+      country: "United Kingdom"
+    }
+  },
     {
       id: uuidv4(),
       name: "Catana Andrei - Adrian",
